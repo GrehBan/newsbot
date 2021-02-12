@@ -1,6 +1,6 @@
 # newsbot
-[@NewsThreadBot](ttttt.me/NewsThreadBot) - it is a simple bot for viewing news, in two languages (en/ru)
-based on [pytelegrambotapi](https://github.com/eternnoir/pyTelegramBotAPI) and [newsapi](newsapi.org)
+[@NewsThreadBot](https://t.me/NewsThreadBot) - it is a simple bot for viewing news, in two languages (en/ru)
+based on [pytelegrambotapi](https://github.com/eternnoir/pyTelegramBotAPI) and [newsapi](https://newsapi.org)
 
 ### Using
 ```bash
