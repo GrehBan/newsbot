@@ -7,11 +7,13 @@ based on [pytelegrambotapi](https://github.com/eternnoir/pyTelegramBotAPI) and [
 git clone https://github.com/GrehBan/newsbot.git
 cd newsbot
 pip install -r requirements.txt
-nano .env```
+nano .env
+```
 
 write in .env this:
     TOKEN=YOUR_TELEGRAM_TOKEN
     API_KEY=YOUR_NEWSAPI_KEY
 
 ```bash
-python main.py```
+python main.py
+```
