@@ -11,8 +11,8 @@ nano .env
 ```
 
 write in .env this:
-    TOKEN=YOUR_TELEGRAM_TOKEN
-    API_KEY=YOUR_NEWSAPI_KEY
+  `TOKEN=YOUR_TELEGRAM_TOKEN
+  API_KEY=YOUR_NEWSAPI_KEY`
 
 ```bash
 python main.py
